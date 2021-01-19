@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/poi-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/poi-ooxml-schemas-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/substance-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shura Rain/Desktop/personales/programacion/ProgramacionIII/PersonalesAdicionales/PersonProyect/src/bookStrore/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaFx"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
